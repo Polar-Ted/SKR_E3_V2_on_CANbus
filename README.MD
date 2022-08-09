@@ -29,9 +29,9 @@ make menuconfig
 make
 ```
 -When the make is complete connect to the klipper host with SFTP 
-Cd to the Klipper out file
+Navigate to the Klipper out file
 ```
-cd /home/pi/klipper/out
+ /home/pi/klipper/out
 ```
 - Copy the Klipper.bin file to your local machine 
 - Rename the file to firmware.bin
