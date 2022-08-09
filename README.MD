@@ -1,6 +1,6 @@
 # Voron V0 Display on CANBUS
 
-![Working](/Images/replaceme.jpg)
+![Wiringimage](/images/SKR_E3_V2_CAN_Wires.jpg)
 Wiring and config to run the SKR E3 V2 over CAN
 
 ## Setup Steps
@@ -43,13 +43,7 @@ navigate to the Klipper out file
 
     Note: The MCP2551 does not have 120 ohm resistors. If this is the only device on your CANBUS you will need to wire a 120 ohm resistor between CANH and CANL at the MCP2551 connector.  You CANBUS should measure 60 ohms between CAN H and CAN L with all the devices connected. ( measure while powered off) 
 
-![Wiring](Images/V0Display_CAN_Wiring.jpg)      
-
-![V0 Display Com pins](/Images/V0_Display_com_pins.jpg)
-
-![Display Wiring IMage](/Images/V0_Display_Wiring.jpg)
-
-![MPC2551 Wiring](/Images/MCP2551_CAN_Tran_wiring.jpg)
+![Wiring](/images/SKR_E3_V2_CAN_wiring.jpg)      
 
 
 ## Links  
