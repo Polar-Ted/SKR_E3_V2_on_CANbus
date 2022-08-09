@@ -28,8 +28,8 @@ make menuconfig
 ```
 make
 ```
--When the make is complete connect to the klipper host with SFTP 
-Navigate to the Klipper out file
+-When the make is complete connect to the klipper host with SFTP and 
+navigate to the Klipper out file
 ```
  /home/pi/klipper/out
 ```
