@@ -1,6 +1,7 @@
 # SKR Mini E3 V2 on CANBUS
 
-![Wiringimage](/images/SKR_E3_V2_CAN_Wires.jpg)
+![Wiringimage](/images/SKR_E3_V2_CAN_Wires.jpg)      
+
 Wiring and config to run the SKR Mini E3 V2 over CAN
 
 ## Setup Steps
