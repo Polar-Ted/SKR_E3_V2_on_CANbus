@@ -54,3 +54,5 @@ navigate to the Klipper out file
   [SKR Mini E3 V2](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware)
   
   [Maz0r CanBus Configuratuion and troubleshooting guides](https://maz0r.github.io/klipper_canbus/)
+  
+  [rootiest guide to SKR Pico as a USB Can bridge](https://www.reddit.com/r/klippers/comments/wl4t93/skrpico_as_canbus_bridge/)
